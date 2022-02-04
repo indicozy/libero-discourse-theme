@@ -14,12 +14,12 @@
   "color_schemes": {
     "Manjaro Material Dark": {
       "primary": "fafafa",
-      "secondary": "75b6ff",
-      "tertiary": "4990d6",
-      "quaternary": "0090a6",
+      "secondary": "1e1e1e",
+      "tertiary": "75b6ff",
+      "quaternary": "4990d6",
       "header_background": "000000",
       "header_primary": "ffffff",
-      "highlight": "a87137",
+      "highlight": "0090a6",
       "danger": "e45735",
       "success": "009900",
       "love": "e53935"
