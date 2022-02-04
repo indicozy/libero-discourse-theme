@@ -1,20 +1,20 @@
 {
-  "name": "Manjaro Dark Material Theme",
+  "name": "LiberoProject Adwaita Dark Theme",
   "component": false,
   "license_url": null,
   "about_url": null,
   "authors": null,
-  "theme_version": null,
+  "theme_version": 1,
   "minimum_discourse_version": null,
   "maximum_discourse_version": null,
   "assets": {
-    "forum_footer_w3_dark": "assets/forum_Footer.svg",
-    "forum_Banner_15": "assets/forum_Banner.svg"
+    "forum_footer_w3_dark": "assets/forum_Footer.png",
+    "forum_Banner_15": "assets/forum_Banner.png"
   },
   "color_schemes": {
     "Manjaro Material Dark": {
       "primary": "fafafa",
-      "secondary": "212121",
+      "secondary": "1e1e1e",
       "tertiary": "11cba3",
       "quaternary": "1a9c82",
       "header_background": "000000",
@@ -25,7 +25,7 @@
       "love": "e53935"
     },
     "manjaro Teal/Amber": {
-      "primary": "212121",
+      "primary": "1e1e1e",
       "secondary": "fafafa",
       "tertiary": "e53935",
       "quaternary": "00796b",
@@ -37,7 +37,7 @@
       "love": "fa6c8d"
     },
     "Material Teal/Amber": {
-      "primary": "212121",
+      "primary": "1e1e1e",
       "secondary": "fafafa",
       "tertiary": "ffa000",
       "quaternary": "00796b",
@@ -49,7 +49,7 @@
       "love": "fa6c8d"
     },
     "Material Red/Blue": {
-      "primary": "212121",
+      "primary": "1e1e1e",
       "secondary": "fafafa",
       "tertiary": "448aff",
       "quaternary": "d32f2f",
@@ -61,7 +61,7 @@
       "love": "fa6c8d"
     },
     "Material Blue/Red": {
-      "primary": "212121",
+      "primary": "1e1e1e",
       "secondary": "fafafa",
       "tertiary": "ff5252",
       "quaternary": "2196f3",
@@ -73,7 +73,7 @@
       "love": "fa6c8d"
     },
     "Material Indigo/Orange": {
-      "primary": "212121",
+      "primary": "1e1e1e",
       "secondary": "fafafa",
       "tertiary": "ff5722",
       "quaternary": "3f51b5",
@@ -86,7 +86,7 @@
     },
     "Material Dark": {
       "primary": "fafafa",
-      "secondary": "212121",
+      "secondary": "1e1e1e",
       "tertiary": "00bcd4",
       "quaternary": "00bcd4",
       "header_background": "000000",

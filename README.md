@@ -1,2 +1,2 @@
-# Discourse Manjaro Theme Dark
+# Libero Project Dark Theme
 
